@@ -7,4 +7,4 @@ This repo contains my personal PowerBI projects on public datasets
 3. Interactive dashboard to provide an overview suburb-level electricity consumption and greenhouse
 gas emission in Sydney. Data is taken from public source (https://data.nsw.gov.au/), provided by City of Sydney.
 
-
+![image alt](https://github.com/nhattan214/PowerBI-projects/blob/e0abfe1bfc56a4937c314934fff969cff0ba0093/model_dashboard_1.PNG)
